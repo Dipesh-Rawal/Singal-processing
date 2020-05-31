@@ -128,6 +128,7 @@ segment = wave.segment(start, duration)
 segment.plot()
 decorate(xlabel='Time (s)')
 
+
 Spectrums
 Wave provides make_spectrum, which computes the spectrum of the wave.
 
